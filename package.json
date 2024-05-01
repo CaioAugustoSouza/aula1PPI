@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/CaioAugustoSouza/aula1PPI/issues"
   },
-  "homepage": "https://github.com/CaioAugustoSouza/aula1PPI#readme"
+  "homepage": "https://github.com/CaioAugustoSouza/aula1PPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
